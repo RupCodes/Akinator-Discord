@@ -1,2 +1,2 @@
 # Akinator-Discord
-Akinator made for Discord | RuP#2626
+Akinator made for Discord | Rup#2626
