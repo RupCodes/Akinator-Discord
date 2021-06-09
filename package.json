@@ -1,0 +1,20 @@
+{
+  "name": "akinator-discord",
+  "version": "1.0.0",
+  "description": "Akinator for Discord | Rup#2626",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rup-1234",
+  "license": "MIT",
+  "dependencies": {
+    "aki-api": "^5.2.1",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "image-search-engine": "^1.2.0"
+  },
+  "devDependencies": {}
+}
