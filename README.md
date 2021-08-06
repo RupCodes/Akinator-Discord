@@ -1,5 +1,5 @@
 # Akinator-Discord
-> Open Source Akinator made for Discord | Rup#2626
+> Open Source Akinator made for Discord | Acê#1234
 
 ### This Discord bot is inspired from [Akinator](https://en.akinator.com/)
 
