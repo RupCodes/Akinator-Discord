@@ -30,10 +30,8 @@ module.exports = async function (message, client) {
 
         let startmsg = await message.channel.send(startEmbed)
 
-        const region = 'en';
-       const aki = new Aki({ region });
-        await aki.start();
-
+        let aki = new Aki("en") // Set Language
+        await aki.start(); // Starts Game
 
         let notFinished = true;
         let stepsSinceLastGuess = 0;
